@@ -1,0 +1,1 @@
+dotnet watch --project src/guan_wasm.Client/ --urls http://localhost:8000
